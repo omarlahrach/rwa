@@ -1,0 +1,9 @@
+R1 :  1 -> 2   (wave lenght: 1)
+R2 :  2 -> 1   (wave lenght: 1)
+R3 :  2 -> 3   (wave lenght: 1)
+R4 :  2 -> 1 -> 4   (wave lenght: none)
+R5 :  3 -> 2   (wave lenght: 1)
+R6 :  3 -> 4   (wave lenght: 1)
+R7 :  4 -> 1   (wave lenght: 1)
+the number of wave lenghts used: 1/1
+the result of the optimisation: 6/7

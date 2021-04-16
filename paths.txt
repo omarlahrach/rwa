@@ -1,0 +1,14 @@
+Following are all different paths from  1 to 2 :
+1 -> 2
+Following are all different paths from  2 to 1 :
+2 -> 1
+Following are all different paths from  2 to 3 :
+2 -> 3
+Following are all different paths from  2 to 4 :
+2 -> 1 -> 4
+Following are all different paths from  3 to 2 :
+3 -> 2
+Following are all different paths from  3 to 4 :
+3 -> 4
+Following are all different paths from  4 to 1 :
+4 -> 1

@@ -1,2 +1,4 @@
-# rwa
-Desktop Application for Routing Optimization and Wavelength Assignment on a Telecommunication Network
+## RWA
+##### Routing Optimization and Wavelength Assignment Desktop Application on a Telecommunication Network by Mathematical Programming
+
+This app is based on short path algorithms (Dijkstra's algorithm, prims and bellman_ford)
